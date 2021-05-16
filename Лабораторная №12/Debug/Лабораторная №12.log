@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\Арина\source\repos\Лабораторная №12\Source.cpp(58,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабораторная №12\Source.cpp(106,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабораторная №12\Source.cpp(124,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабораторная №12\Source.cpp(148,14): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Арина\source\repos\Лабораторная №12\Source.cpp(177,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабораторная №12\Source.cpp(184,20): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабораторная №12\Source.cpp(187,52): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабораторная №12\Source.cpp(198,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабораторная №12\Source.cpp(253,27): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\Арина\source\repos\Лабораторная №12\Source.cpp(299,27): warning C4018: >=: несоответствие типов со знаком и без знака
+  Лабораторная №12.vcxproj -> C:\Users\Арина\source\repos\Лабораторная №12\Debug\Лабораторная №12.exe
